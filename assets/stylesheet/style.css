@@ -545,7 +545,7 @@ footer span {
    	}
     	
 	 .nav_list {
-	position: absolute;
+	position: fixed;
 	display: block;
 	right:40%;
 	top:5rem;
